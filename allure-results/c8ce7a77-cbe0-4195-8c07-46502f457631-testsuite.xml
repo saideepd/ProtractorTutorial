@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1574835106625' stop='1574835123336'>
+    <name>demo calculator tests</name>
+    <title>demo calculator tests</title>
+    <test-cases>
+        <test-case start='1574835106626' status='passed' stop='1574835110044'>
+            <name>addition test</name>
+            <title>addition test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d79dd128-4ebb-496e-a39a-be0b28b324b5-attachment.png' type='image/png' size='13953'/>
+            </attachments>
+        </test-case>
+        <test-case start='1574835110044' status='passed' stop='1574835113088'>
+            <name>subtraction test</name>
+            <title>subtraction test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d0a8df2b-7eb2-4080-9a24-7cc40c0f7e7f-attachment.png' type='image/png' size='13700'/>
+            </attachments>
+        </test-case>
+        <test-case start='1574835113088' status='passed' stop='1574835116285'>
+            <name>multiplication test</name>
+            <title>multiplication test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ee80164e-c928-4b96-a395-7b94bb7a435f-attachment.png' type='image/png' size='13963'/>
+            </attachments>
+        </test-case>
+        <test-case start='1574835116285' status='passed' stop='1574835119861'>
+            <name>division test</name>
+            <title>division test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='44cb7ce2-2161-442e-9709-d3dc9cccb5eb-attachment.png' type='image/png' size='14537'/>
+            </attachments>
+        </test-case>
+        <test-case start='1574835119861' status='passed' stop='1574835123335'>
+            <name>modulo test</name>
+            <title>modulo test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4a5caafa-3ee6-4905-8ec3-ba7b8c58accc-attachment.png' type='image/png' size='14225'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
