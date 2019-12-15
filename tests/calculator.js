@@ -36,7 +36,7 @@ describe('demo calculator tests', () => {
         element(by.css('[ng-click="doAddition()"]')).click();
 
         var result = element(by.cssContainingText('.ng-binding', '2'));
-        expect(result.getText()).toEqual('3');
+        expect(result.getText()).toEqual('2');
         
         //browser.sleep(2000);
     });
